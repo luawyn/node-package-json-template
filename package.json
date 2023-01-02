@@ -1,0 +1,26 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "pratica1": "clear && node pratica1.js",
+    "pratica2": "clear && node pratica2.js",
+    "pratica3": "clear && node pratica3.js",
+    "pratica4": "clear && node pratica4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luawyn/node-package-json-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luawyn/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/luawyn/node-package-json-template#readme"
+}
